@@ -14,6 +14,7 @@ public class MyStoreApplication implements CommandLineRunner {
 	
 	
 	public static void main(String[] args) {
+		// changed by Tibi xD
 		SpringApplication.run(MyStoreApplication.class, args);
 	}
 
